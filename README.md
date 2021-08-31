@@ -87,3 +87,8 @@ In `api/managed-records.js`, write a function named `retrieve` that requests dat
 `yarn install` to install.
 
 `yarn test` to run the provided unit tests.
+
+## Wrapping Up
+
+- Create a new Github repository for your completed challenge.
+- It is okay if you cannot finish all tasks. Please explain what you have completed and include your own suite of unit tests if possible.
